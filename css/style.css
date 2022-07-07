@@ -1,6 +1,14 @@
-.formAjuste{ 
+.formAjuste {
     margin: 0.6rem;
 }
-.btnAjuste{
+
+.btnAjuste {
     padding: 0.3rem;
+}
+
+.ajusteMain {
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
